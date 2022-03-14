@@ -5,5 +5,11 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# About the book
+# About this booklet
 
+## About the author
+This project is initiated by Duong Pham, a Ph.D. student in Political Science at University of California, San Diego. In this booklet, you will find:
+
+## About the booklet
+- Reading lists, annotated bibliographies, as well as essays for a wide array of topics spanning the two political science sub-fields: \textbf{(1) International Relations} and \textbf{(2) Comparative Politics}.
+- My notes for matters related to research methodologies, including recommended self-study resources (online courses, videos, webpages, etc.), personal notes for methods classes' lectures, recommended tools, etc.
