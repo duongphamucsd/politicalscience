@@ -1,6 +1,4 @@
 about-this-booklet
-about-the-author
-about-the-booklet
 international-relations
 comparative-politics
 methods
