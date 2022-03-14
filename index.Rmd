@@ -10,8 +10,8 @@ site: bookdown::bookdown_site
 ## About the author
 This booklet is created by [Duong Pham](https://polisci.ucsd.edu/grad/current-students/index.html), a Ph.D. student in Political Science at University of California, San Diego.
 
-[My personal website](https://www.duongtpham.com/)
-[Follow me on Twitter](https://twitter.com/home)
+- [My personal website](https://www.duongtpham.com/)
+- [Follow me on Twitter](https://twitter.com/home)
 
 ## About the booklet
 In this booklet, you will find:
